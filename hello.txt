@@ -1,7 +1,7 @@
 hello git!  first change
 hello git!  second change
 hello git!  hot-fix first change
-hello git!
+hello git!  hot-fix change merge
 hello git!
 hello git!
 hello git!
