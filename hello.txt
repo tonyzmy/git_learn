@@ -1,5 +1,5 @@
 hello git!  first change
-hello git!
+hello git!  second change
 hello git!
 hello git!
 hello git!
